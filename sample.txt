@@ -1,0 +1,45 @@
+
+
+
+
+abcdefghijklmnopqrstuvxwyz
+ABCDEFGHIJKLMNOPQRSTUVXYZ
+1234567890
+
+Ha HaHa 
+
+characters
+
+mat
+pat
+bat
+
+
+Meta characters need to escaped
+.[{()\^$|?*+
+
+fiveminutestofiness.com
+
+832-525-9493
+832.525.9493
+832*525*9493
+349-85-6789
+
+Mr. Saurav
+Mr Saurav
+
+Ms Davis
+Mrs. Davis 
+
+saurav.kunwar@equifax.com 
+kunwarsaurav@gmail.com 
+sauravKunwar89324@my-job.net 
+
+
+https://www.google.com 
+https://open.ai
+https://www.nasa.gov 
+http://shadysite.com 
+https://fiveminutestofiness.com 
+
+
